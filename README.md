@@ -23,7 +23,7 @@
 这部分链接比较混乱，我没有整理太多，计算机视觉方面的面试主要还是考 算法基础+项目经历深挖 
 
 ### 简历书写
-[超级简历](www.wondercv.com)
+[超级简历](https://www.wondercv.com)
 
 [软件（技术类）岗位简历的撰写要点](https://blog.csdn.net/cccccttttyyy/article/details/79253138)
 
